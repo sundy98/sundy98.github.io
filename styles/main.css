@@ -1,0 +1,35 @@
+* {font-family: sans-serif}
+
+img {
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1 {
+    color: orange;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+}
+
+h2::first-letter {
+    font-size: 200%;
+
+}
+
+a:link {
+    color: orange;
+}
+
+
+a:hover {
+    color: green;
+}
+
+footer {
+    text-align: center;
+}
+
+
+
+
